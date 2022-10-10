@@ -1,0 +1,27 @@
+*{
+    margin: 5px 0;
+}
+
+body{
+    text-align: center;
+}
+
+.video-div{
+    width: 33%;
+}
+
+#video-divs{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+#searchbar{
+    width: 40%;
+    height: 30px;
+    margin: 30px 0;
+}
+
+img{
+    width: 90%;
+}
